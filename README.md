@@ -1,3 +1,4 @@
-# Car fuel consumption
+# Projects worked 
 
-The dataset is measurements.csv
+1. Car fuel consumption
+2. German fuel prices
