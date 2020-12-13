@@ -1,3 +1,3 @@
-# data_science_works
-my tryouts
-1) car fuel consumption estimation work and dataset is measurements.csv
+# Car fuel consumption
+
+dataset is measurements.csv
