@@ -1,9 +1,12 @@
 Customer review or feedback on a product or a serivce is essential source of information from the descrption of the user. Efficent use of such information, can help and identify valuable opportunities for furthur development of product or service.
 
 [Trustpilot](https://www.trustpilot.com/) is one of the webiste which collects the reviews on various companies and services. </br>
+
+
+
 ![image](images/trustpilot_main.jpg)
 
- Nike onlinestore webiste was the main concentration and web scraped the reviews data from the Trustpilot website based on english language
+ Nike onlinestore webiste was the main concentration and web scraped the reviews data from the Trustpilot website based on english language </br>
 ![Nike](images/trustpilot.jpg)
 
 In this project main focus is on:
