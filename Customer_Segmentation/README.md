@@ -1,0 +1,2 @@
+# Jantahack : Customer segmentation
+
