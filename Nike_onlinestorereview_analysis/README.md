@@ -10,7 +10,7 @@ Customer review or feedback on a product or a serivce is essential source of inf
 ![Nike](images/trustpilot.jpg)
 
 In this project main focus is on:
-- Web scraping (.py file is used for webscraping with any company or service name)
+- Web scraping . using [web_scrapper](https://github.com/Pramod07Ch/Web-scrapper-for-Trustpilot-website) from my another repository
 - data understanding
 - data pre-processing
 - EDA
